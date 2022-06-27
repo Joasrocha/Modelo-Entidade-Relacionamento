@@ -1,8 +1,6 @@
 
 -- Link do repositório no Github: https://github.com/Joasrocha/Modelo-Entidade-Relacionamento/blob/16021d51fe5c9fef8df0462559f42371b855d35c/Modelo_Relacional_Biblioteca_2349400.sql
 
-DROP TABLE IF EXISTS LIVRO, GENERO;
-
 CREATE TABLE LIVRO(
 Id INTEGER,
 Titulo CHAR (50),
